@@ -33,7 +33,10 @@ cursor-dotfiles/
 ├── skills/
 │   └── git-commit/           # /git-commit в Agent Chat
 │       ├── SKILL.md
-│       └── reference.md
+│       ├── reference.md
+│       ├── README.md
+│       ├── PORTABLE_SETUP.md
+│       └── USER_RULES_SNIPPET.md
 ├── hooks/                    # заготовка под ~/.cursor/hooks.json
 │   └── README.md
 └── docs/
