@@ -194,5 +194,7 @@ Keep **Notes** brief.
 ## Related files in cursor-dotfiles repo
 
 - `reference.md` — full type table + breaking changes + FAQ
-- `../../user-rules/user-rules.md` — paste into Cursor **Settings → Rules → User Rules**
+- `USER_RULES_SNIPPET.md` — короткий блок для **Settings → Rules → User Rules**
+- `../../user-rules/user-rules.md` — полная версия user rules
+- `PORTABLE_SETUP.md` — перенос на другой ноутбук
 - `../../docs/sync-checklist.md` — verify after install on a new machine
