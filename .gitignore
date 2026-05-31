@@ -1,0 +1,15 @@
+# Secrets and local overrides
+.env
+.env.*
+*.local
+**/config.local
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+
+# Never commit Cursor internal cache if accidentally copied
+skills-cursor/
+projects/
+ide_state.json
